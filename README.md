@@ -1,1 +1,1 @@
-# klip.ai
+# KLIP.AI
