@@ -1,4 +1,4 @@
-# Contributing to klip.ai
+# Contributing to KLIP.AI
 
 
 
